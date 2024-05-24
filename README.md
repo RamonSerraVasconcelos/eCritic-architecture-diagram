@@ -1,0 +1,1 @@
+# eCritic-architecture-diagram
